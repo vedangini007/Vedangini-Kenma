@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a business minded, results - driven leader offering more than 6 months of machine learning experience and sponsorship/ market dealing skills through various internships, research projects and courses that brings new perspectives for the team.
 
 <!---Vedangini-Kenma/Vedangini-Kenma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
