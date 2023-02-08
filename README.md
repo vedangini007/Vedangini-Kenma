@@ -3,9 +3,11 @@
 <!---Vedangini-Kenma/Vedangini-Kenma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:-->
+📫 You can contact through: https://www.linkedin.com/in/vedangini-singh/
+🔭 I’m currently working on  AQI and Heatwave Prediction.
+🌱 I’m currently learning Deep Learning and DSA.
+⚡ Fun fact: I like to do research work.
 
-🔭 I’m currently working on  restaurant outliers
-- 🌱 I’m currently learning ML and python
 <!--- - 🤔 I’m looking for help with ...
 💬 Ask me about ...
 - 📫 How to reach me: ...
