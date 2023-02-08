@@ -4,9 +4,9 @@
 
 Here are some ideas to get you started:-->
 📫 You can contact through: https://www.linkedin.com/in/vedangini-singh/
-🔭 I’m currently working on  AQI and Heatwave Prediction.
-🌱 I’m currently learning Deep Learning and DSA.
-⚡ Fun fact: I like to do research work.
+- 🔭 I’m currently working on  AQI and Heatwave Prediction.
+- 🌱 I’m currently learning Deep Learning and DSA.
+- ⚡ Fun fact: I like to do research work.
 
 <!--- - 🤔 I’m looking for help with ...
 💬 Ask me about ...
